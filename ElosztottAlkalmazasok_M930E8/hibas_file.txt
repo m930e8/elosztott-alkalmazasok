@@ -1,3 +1,3 @@
-¬í sr java.util.ArrayListxÒ™Ça I sizexp   w   sr aruhaz.FaButor#ôsJjìl I sulyxr aruhaz.Butor WV^b- D ertekL nevt Ljava/lang/String;xp@Èç     t szÃ©k   
-sq ~ @Èç     q ~    
-sq ~ @Øj     t asztal   sq ~ @İL     t asztal   sr aruhaz.AgyagButorÙz+l"© L anyagq ~ xq ~ @á     t fotelt bÅ‘rsq ~ @òO€    t  kanapÃ©t bÅ‘rx
+Â¬Ã­ sr java.util.ArrayListxÂÃ’â„¢Ã‡aÂ I sizexp   w   sr aruhaz.FaButor#Ã´sJjÃ¬l I sulyxr aruhaz.Butor WV^b- D ertekL nevt Ljava/lang/String;xp@ÃˆÃ§     t szÃƒÂ©k   
+sq ~ @ÃˆÃ§     q ~    
+sq ~ @Ã˜j     t asztl   sq ~ @ÃL     t asztal   sr aruhaz.AgyagButorÃ™z+l"Â© L anyagq ~ xq ~ @Ã¡     t fotelt bÃ…â€˜rsq ~ @Ã²Oâ‚¬    t  kanapÃƒÂ©t bÃ…â€˜rx
